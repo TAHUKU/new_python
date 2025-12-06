@@ -1,0 +1,54 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    },
+    "users": [
+        {
+            "username": "hakkul",
+            "password": "123"
+        },
+        {
+            "username": "ouu",
+            "password": "ouu"
+        },
+        {
+            "username": "tahuku",
+            "password": "1234"
+        }
+    ],
+    "pendaftaran": [
+        {
+            "nama": "tahu",
+            "alamat": "pandaan",
+            "oleh": "hakkul"
+        },
+        {
+            "nama": "Hakkul qoul",
+            "Umur": "20",
+            "alamat": "Purwosari",
+            "oleh": "ouu"
+        },
+        {
+            "nama": "hakkul",
+            "Umur": "20",
+            "alamat": "purwosari",
+            "nomer hp": "08515153445",
+            "oleh": "ouu"
+        },
+        {
+            "nama": "saya",
+            "Umur": "18",
+            "alamat": "purwosari",
+            "nomer hp": "00000",
+            "oleh": "tahuku"
+        },
+        {
+            "nama": "asa",
+            "Umur": "20",
+            "alamat": "purwosari",
+            "nomer hp": "0000",
+            "oleh": "ouu"
+        }
+    ]
+}
